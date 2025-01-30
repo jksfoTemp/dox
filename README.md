@@ -1,3 +1,6 @@
+
+"Not curated, historic file dump. Should be safe for PI."
+
 ![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
 # Name of the project
